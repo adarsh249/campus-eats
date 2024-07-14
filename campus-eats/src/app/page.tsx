@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Header from "../components/Header";
-import Search from "../components/Search";
-import ReviewCard from "../components/ReviewCard";
+import Search from "../components/landing/Search";
+import ReviewCard from "../components/landing/ReviewCard";
 
 const cardsData = [
   {
