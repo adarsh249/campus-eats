@@ -1,3 +1,6 @@
+'use client'
+import { fetchUniversityInformation } from '../../../../controllers/searchController';
+import { useState, useEffect } from 'react';
 import DiningMap from '../../../components/school/DiningMap';
 interface SchoolProps {
   params: {
@@ -5,43 +8,25 @@ interface SchoolProps {
   };
 }
 
-const schoolData = {
-  'university-of-california-san-diego': { name: 'UC San Diego', description: 'Description for UCSD', image: '/images/ucsd.jpg' },
-  'university-of-california-irvine': { name: 'UC Irvine', description: 'Description for UCI', image: '/images/uci.jpg' },
-  'university-of-california-los-angeles': { name: 'UC Los Angeles', description: 'Description for UCLA', image: '/images/ucla.jpg' },
-};
-
-const SchoolPage = ({ params }: SchoolProps) => {
-  //temp but make a get response from request of earlier form to get this data
+export default function SchoolPage({ params }: SchoolProps) {
   const { school } = params;
-  const data = schoolData['university-of-california-san-diego'];
+  const [fullName, setFullName] = useState('');
 
-  if (!data) {
-    return <div>School not found</div>;
-  }
+  useEffect(() => {
+    async function fetchData() {
+      const schools = await fetchUniversityInformation();
+      const schoolData = schools.find(
+        (s) => s.university_name.replace(/\s/g, '-').toLowerCase().replace(/[(),/]/g, '') === school
+      );
+      if (schoolData) {
+        setFullName(schoolData.university_name);
+      } else {
+        setFullName('School not found');
+      }
+    }
 
-  return (
-    <div>
-      <h1>{data.name}</h1>
-      <DiningMap />
-      <p>{data.description}</p>
-      <img src={data.image} alt={`${data.name} image`} />
-    </div>
-  );
-};
+    fetchData();
+  }, [school]);
 
-export const generateStaticParams = async () => {
-  return Object.keys(schoolData).map((school) => ({
-    school,
-  }));
-};
-
-// export const generateMetadata = async ({ params }: SchoolProps) => {
-//   const { school } = params;
-//   const data = schoolData[school];
-//   return {
-//     title: data ? `School: ${data.name}` : 'School not found',
-//   };
-// };
-
-export default SchoolPage;
+  return <h1>{fullName}</h1>;
+}
