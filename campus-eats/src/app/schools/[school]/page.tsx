@@ -28,5 +28,10 @@ export default function SchoolPage({ params }: SchoolProps) {
     fetchData();
   }, [school]);
 
-  return <h1>{fullName}</h1>;
+  return (
+    <div>
+      <h1>{fullName}</h1>
+      <DiningMap />
+    </div>
+  );
 }
