@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Header from "../components/Header";
-import Search from "../components/landing/Search";
-import ReviewCard from "../components/landing/ReviewCard";
+import Header from "./components/Header";
+import Search from "./components/landing/Search";
+import ReviewCard from "./components/landing/ReviewCard";
 
 const cardsData = [
   {
@@ -65,7 +65,7 @@ export default function Home() {
     <div>
       <Search />
       <div className="flex flex-wrap justify-center">
-            {cardsData.map((card, index) => (
+            {/*cardsData.map((card, index) => (
                 <ReviewCard
                     eateryName={card.eateryName}
                     description={card.description}
@@ -76,7 +76,7 @@ export default function Home() {
                     schoolName={card.schoolName}
                     key={index}
                 />
-            ))}
+            ))*/}
         </div>
     </div>
   );

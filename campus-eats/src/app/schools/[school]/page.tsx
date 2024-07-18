@@ -1,7 +1,7 @@
 'use client'
-import { fetchUniversityInformation } from '../../../../controllers/searchController';
+import { fetchUniversityInformation } from '../../../controllers/searchController';
 import { useState, useEffect } from 'react';
-import DiningMap from '../../../components/school/DiningMap';
+import DiningMap from '../../components/school/DiningMap';
 interface SchoolProps {
   params: {
     school: string;

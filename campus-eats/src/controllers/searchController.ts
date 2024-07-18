@@ -1,5 +1,4 @@
-import { supabase } from '../config/supabaseClient';
-
+import { createClient } from '@/utils/supabase/client'
 export interface University {
     id: number;
     university_name: string;
@@ -11,6 +10,8 @@ export interface University {
  * @returns {Promise<University>} - An array of objects containing university information
  */
 export async function fetchUniversityInformation() {
+    const supabase = createClient();
+
     const { data, error } = await supabase
         .from('universities')
         .select('id, university_name, university_abbrev');

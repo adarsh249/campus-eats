@@ -1,7 +1,7 @@
 'use client'
 import { useState, useEffect, useRef } from 'react';
 import { fetchUniversityInformation, University } from '../../../controllers/searchController';
-import '../../app/globals.css';
+import '../../globals.css';
 /**
  * The input box to search for a university or dining option.
  * @returns {JSX.Element} - The search form component
