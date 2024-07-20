@@ -1,0 +1,4180 @@
+[
+  {
+    "id": 1,
+    "university_name": "A&M",
+    "university_abbrev": [
+      "A&M"
+    ]
+  },
+  {
+    "id": 2,
+    "university_name": "Abilene Christian University",
+    "university_abbrev": [
+      "ACU"
+    ]
+  },
+  {
+    "id": 3,
+    "university_name": "Adelphi University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 4,
+    "university_name": "Air Force Institute of Technology",
+    "university_abbrev": [
+      "AFIT"
+    ]
+  },
+  {
+    "id": 5,
+    "university_name": "Alabama State University",
+    "university_abbrev": [
+      "ALASU",
+      "ASU"
+    ]
+  },
+  {
+    "id": 7,
+    "university_name": "Alaska Pacific University",
+    "university_abbrev": [
+      "APU"
+    ]
+  },
+  {
+    "id": 8,
+    "university_name": "Albany State University",
+    "university_abbrev": [
+      "ASU"
+    ]
+  },
+  {
+    "id": 9,
+    "university_name": "Albert Einstein College of Medicine",
+    "university_abbrev": [
+      "AECOM"
+    ]
+  },
+  {
+    "id": 10,
+    "university_name": "Alcorn State University",
+    "university_abbrev": [
+      "ASU"
+    ]
+  },
+  {
+    "id": 11,
+    "university_name": "Alfred University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 12,
+    "university_name": "American International College",
+    "university_abbrev": [
+      "AIC"
+    ]
+  },
+  {
+    "id": 13,
+    "university_name": "American University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 14,
+    "university_name": "Amherst College",
+    "university_abbrev": [
+      "Amherst"
+    ]
+  },
+  {
+    "id": 15,
+    "university_name": "Anderson University (Indiana)",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 16,
+    "university_name": "Anderson University (South Carolina)",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 17,
+    "university_name": "Angelo State University",
+    "university_abbrev": [
+      "ASU"
+    ]
+  },
+  {
+    "id": 18,
+    "university_name": "Appalachian State University",
+    "university_abbrev": [
+      "ASU",
+      "App State"
+    ]
+  },
+  {
+    "id": 21,
+    "university_name": "Arcadia University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 22,
+    "university_name": "Arizona State University",
+    "university_abbrev": [
+      "ASU"
+    ]
+  },
+  {
+    "id": 23,
+    "university_name": "Arkansas State University",
+    "university_abbrev": [
+      "ASU"
+    ]
+  },
+  {
+    "id": 24,
+    "university_name": "Arkansas Tech University",
+    "university_abbrev": [
+      "ATU"
+    ]
+  },
+  {
+    "id": 25,
+    "university_name": "Asbury University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 26,
+    "university_name": "Ashford University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 27,
+    "university_name": "Auburn University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 28,
+    "university_name": "Auburn University Montgomery",
+    "university_abbrev": [
+      "AUM"
+    ]
+  },
+  {
+    "id": 29,
+    "university_name": "Augusta State University",
+    "university_abbrev": [
+      "ASU"
+    ]
+  },
+  {
+    "id": 30,
+    "university_name": "Augusta University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 31,
+    "university_name": "Augustana College (Illinois)",
+    "university_abbrev": [
+      "AC"
+    ]
+  },
+  {
+    "id": 32,
+    "university_name": "Augustana University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 33,
+    "university_name": "Aurora University",
+    "university_abbrev": [
+      "AU"
+    ]
+  },
+  {
+    "id": 34,
+    "university_name": "Austin Peay State University",
+    "university_abbrev": [
+      "APSU"
+    ]
+  },
+  {
+    "id": 35,
+    "university_name": "Baldwin Wallace University",
+    "university_abbrev": [
+      "BW"
+    ]
+  },
+  {
+    "id": 36,
+    "university_name": "Ball State University",
+    "university_abbrev": [
+      "BSU"
+    ]
+  },
+  {
+    "id": 37,
+    "university_name": "Barry University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 38,
+    "university_name": "Baylor University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 39,
+    "university_name": "Belmont University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 40,
+    "university_name": "Bemidji State University",
+    "university_abbrev": [
+      "BSU"
+    ]
+  },
+  {
+    "id": 41,
+    "university_name": "Bethel College",
+    "university_abbrev": [
+      "BC"
+    ]
+  },
+  {
+    "id": 42,
+    "university_name": "Binghamton University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 43,
+    "university_name": "Biola University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 44,
+    "university_name": "Birmingham-Southern College",
+    "university_abbrev": [
+      "BSC"
+    ]
+  },
+  {
+    "id": 45,
+    "university_name": "Black Hills State University",
+    "university_abbrev": [
+      "BHSU"
+    ]
+  },
+  {
+    "id": 46,
+    "university_name": "Bob Jones University",
+    "university_abbrev": [
+      "BJU"
+    ]
+  },
+  {
+    "id": 47,
+    "university_name": "Boise State University",
+    "university_abbrev": [
+      "BSU"
+    ]
+  },
+  {
+    "id": 48,
+    "university_name": "Boston College",
+    "university_abbrev": [
+      "BC"
+    ]
+  },
+  {
+    "id": 49,
+    "university_name": "Boston University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 50,
+    "university_name": "Bowie State University",
+    "university_abbrev": [
+      "BSU"
+    ]
+  },
+  {
+    "id": 51,
+    "university_name": "Bowling Green State University",
+    "university_abbrev": [
+      "BGSU"
+    ]
+  },
+  {
+    "id": 52,
+    "university_name": "Bradley University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 53,
+    "university_name": "Brigham Young University",
+    "university_abbrev": [
+      "BYU",
+      "The Y"
+    ]
+  },
+  {
+    "id": 55,
+    "university_name": "Bronx Community College",
+    "university_abbrev": [
+      "BCC"
+    ]
+  },
+  {
+    "id": 56,
+    "university_name": "Brown University",
+    "university_abbrev": [
+      "Brown"
+    ]
+  },
+  {
+    "id": 57,
+    "university_name": "Bryn Mawr College",
+    "university_abbrev": [
+      "BMC"
+    ]
+  },
+  {
+    "id": 58,
+    "university_name": "Bucknell University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 59,
+    "university_name": "Butler University",
+    "university_abbrev": [
+      "BU"
+    ]
+  },
+  {
+    "id": 60,
+    "university_name": "California Baptist University",
+    "university_abbrev": [
+      "CBU"
+    ]
+  },
+  {
+    "id": 61,
+    "university_name": "California Institute of Technology",
+    "university_abbrev": [
+      "Caltech"
+    ]
+  },
+  {
+    "id": 62,
+    "university_name": "California Polytechnic State University",
+    "university_abbrev": [
+      "Cal Poly"
+    ]
+  },
+  {
+    "id": 63,
+    "university_name": "California State Polytechnic University, Pomona",
+    "university_abbrev": [
+      "Cal Poly Pomona",
+      "CPP"
+    ]
+  },
+  {
+    "id": 65,
+    "university_name": "California State University",
+    "university_abbrev": [
+      "Cal State",
+      "CSU"
+    ]
+  },
+  {
+    "id": 67,
+    "university_name": "California State University, Chico",
+    "university_abbrev": [
+      "Chico State"
+    ]
+  },
+  {
+    "id": 68,
+    "university_name": "California State University, East Bay",
+    "university_abbrev": [
+      "CSUEB"
+    ]
+  },
+  {
+    "id": 69,
+    "university_name": "California State University, Fresno",
+    "university_abbrev": [
+      "CSUF",
+      "Fresno State",
+      "FSU"
+    ]
+  },
+  {
+    "id": 72,
+    "university_name": "California State University, Fullerton",
+    "university_abbrev": [
+      "CSUF"
+    ]
+  },
+  {
+    "id": 73,
+    "university_name": "California State University, Long Beach",
+    "university_abbrev": [
+      "CSULB",
+      "Long Beach State"
+    ]
+  },
+  {
+    "id": 75,
+    "university_name": "California State University, Los Angeles",
+    "university_abbrev": [
+      "CSULA"
+    ]
+  },
+  {
+    "id": 76,
+    "university_name": "California State University, Sacramento",
+    "university_abbrev": [
+      "CSUS",
+      "Sacramento State / Sac State"
+    ]
+  },
+  {
+    "id": 78,
+    "university_name": "California State University, Sonoma",
+    "university_abbrev": [
+      "SSU"
+    ]
+  },
+  {
+    "id": 79,
+    "university_name": "California State University, Stanislaus",
+    "university_abbrev": [
+      "Stanislaus State or Stan State"
+    ]
+  },
+  {
+    "id": 80,
+    "university_name": "Carnegie Mellon University",
+    "university_abbrev": [
+      "CMU"
+    ]
+  },
+  {
+    "id": 81,
+    "university_name": "Case Western Reserve University",
+    "university_abbrev": [
+      "CWRU"
+    ]
+  },
+  {
+    "id": 82,
+    "university_name": "Catholic University of America",
+    "university_abbrev": [
+      "Catholic",
+      "CUA"
+    ]
+  },
+  {
+    "id": 84,
+    "university_name": "Central Connecticut State University",
+    "university_abbrev": [
+      "CCSU"
+    ]
+  },
+  {
+    "id": 85,
+    "university_name": "Central Michigan University",
+    "university_abbrev": [
+      "CMU"
+    ]
+  },
+  {
+    "id": 86,
+    "university_name": "Central State University",
+    "university_abbrev": [
+      "Central"
+    ]
+  },
+  {
+    "id": 87,
+    "university_name": "Central Washington University",
+    "university_abbrev": [
+      "CWU"
+    ]
+  },
+  {
+    "id": 88,
+    "university_name": "Chapman University",
+    "university_abbrev": [
+      "CU"
+    ]
+  },
+  {
+    "id": 89,
+    "university_name": "Chattanooga State Community College",
+    "university_abbrev": [
+      "Chatt State"
+    ]
+  },
+  {
+    "id": 90,
+    "university_name": "Chicago State University",
+    "university_abbrev": [
+      "CSU"
+    ]
+  },
+  {
+    "id": 91,
+    "university_name": "Christopher Newport University",
+    "university_abbrev": [
+      "CNU"
+    ]
+  },
+  {
+    "id": 92,
+    "university_name": "City College of New York",
+    "university_abbrev": [
+      "CCNY"
+    ]
+  },
+  {
+    "id": 93,
+    "university_name": "City University of New York",
+    "university_abbrev": [
+      "CUNY"
+    ]
+  },
+  {
+    "id": 94,
+    "university_name": "Claremont Graduate University",
+    "university_abbrev": [
+      "CGU"
+    ]
+  },
+  {
+    "id": 95,
+    "university_name": "Claremont McKenna College",
+    "university_abbrev": [
+      "CMC"
+    ]
+  },
+  {
+    "id": 96,
+    "university_name": "Clarks Summit University",
+    "university_abbrev": [
+      "CSU"
+    ]
+  },
+  {
+    "id": 97,
+    "university_name": "Clayton State University",
+    "university_abbrev": [
+      "CSU"
+    ]
+  },
+  {
+    "id": 98,
+    "university_name": "Clemson University",
+    "university_abbrev": [
+      "CU"
+    ]
+  },
+  {
+    "id": 99,
+    "university_name": "Cleveland State University",
+    "university_abbrev": [
+      "CSU"
+    ]
+  },
+  {
+    "id": 100,
+    "university_name": "Coastal Carolina University",
+    "university_abbrev": [
+      "CCU"
+    ]
+  },
+  {
+    "id": 101,
+    "university_name": "College of Charleston",
+    "university_abbrev": [
+      "C of C"
+    ]
+  },
+  {
+    "id": 102,
+    "university_name": "College of DuPage",
+    "university_abbrev": [
+      "COD"
+    ]
+  },
+  {
+    "id": 103,
+    "university_name": "College of Saint Benedict/Saint John's University",
+    "university_abbrev": [
+      "CSB/SJU"
+    ]
+  },
+  {
+    "id": 104,
+    "university_name": "College of Staten Island",
+    "university_abbrev": [
+      "CSI"
+    ]
+  },
+  {
+    "id": 105,
+    "university_name": "Colorado College",
+    "university_abbrev": [
+      "CC"
+    ]
+  },
+  {
+    "id": 106,
+    "university_name": "Colorado State University",
+    "university_abbrev": [
+      "CSU"
+    ]
+  },
+  {
+    "id": 107,
+    "university_name": "Colorado State University-Pueblo",
+    "university_abbrev": [
+      "CSU-Pueblo"
+    ]
+  },
+  {
+    "id": 108,
+    "university_name": "Columbia University",
+    "university_abbrev": [
+      "CU"
+    ]
+  },
+  {
+    "id": 109,
+    "university_name": "Community College of Vermont",
+    "university_abbrev": [
+      "CCV"
+    ]
+  },
+  {
+    "id": 110,
+    "university_name": "Concord University",
+    "university_abbrev": [
+      "CU"
+    ]
+  },
+  {
+    "id": 111,
+    "university_name": "Connecticut College",
+    "university_abbrev": [
+      "Conn"
+    ]
+  },
+  {
+    "id": 112,
+    "university_name": "Coppin State University",
+    "university_abbrev": [
+      "CSU"
+    ]
+  },
+  {
+    "id": 113,
+    "university_name": "Cornell University",
+    "university_abbrev": [
+      "CU"
+    ]
+  },
+  {
+    "id": 114,
+    "university_name": "Creighton University",
+    "university_abbrev": [
+      "CU"
+    ]
+  },
+  {
+    "id": 115,
+    "university_name": "Dakota State University",
+    "university_abbrev": [
+      "DSU"
+    ]
+  },
+  {
+    "id": 116,
+    "university_name": "Dallas Baptist University",
+    "university_abbrev": [
+      "DBU"
+    ]
+  },
+  {
+    "id": 117,
+    "university_name": "Dartmouth College",
+    "university_abbrev": [
+      "DC"
+    ]
+  },
+  {
+    "id": 118,
+    "university_name": "Davidson College",
+    "university_abbrev": [
+      "DC"
+    ]
+  },
+  {
+    "id": 119,
+    "university_name": "De Anza College",
+    "university_abbrev": [
+      "De Anza"
+    ]
+  },
+  {
+    "id": 120,
+    "university_name": "DePaul University",
+    "university_abbrev": [
+      "DPU"
+    ]
+  },
+  {
+    "id": 121,
+    "university_name": "DeSales University",
+    "university_abbrev": [
+      "DSU"
+    ]
+  },
+  {
+    "id": 122,
+    "university_name": "Delta State University",
+    "university_abbrev": [
+      "DSU"
+    ]
+  },
+  {
+    "id": 123,
+    "university_name": "Denison University",
+    "university_abbrev": [
+      "DU"
+    ]
+  },
+  {
+    "id": 124,
+    "university_name": "Drake University",
+    "university_abbrev": [
+      "DU"
+    ]
+  },
+  {
+    "id": 125,
+    "university_name": "Drexel University",
+    "university_abbrev": [
+      "DU"
+    ]
+  },
+  {
+    "id": 126,
+    "university_name": "Duke University",
+    "university_abbrev": [
+      "DU",
+      "Duke"
+    ]
+  },
+  {
+    "id": 128,
+    "university_name": "Duquesne University",
+    "university_abbrev": [
+      "DU",
+      "DUQ"
+    ]
+  },
+  {
+    "id": 130,
+    "university_name": "East Carolina University",
+    "university_abbrev": [
+      "ECU"
+    ]
+  },
+  {
+    "id": 131,
+    "university_name": "East Tennessee State University",
+    "university_abbrev": [
+      "ETSU"
+    ]
+  },
+  {
+    "id": 132,
+    "university_name": "East Texas Baptist University",
+    "university_abbrev": [
+      "ETBU"
+    ]
+  },
+  {
+    "id": 133,
+    "university_name": "Eastern Illinois University",
+    "university_abbrev": [
+      "EIU"
+    ]
+  },
+  {
+    "id": 134,
+    "university_name": "Eastern Kentucky University",
+    "university_abbrev": [
+      "EKU"
+    ]
+  },
+  {
+    "id": 135,
+    "university_name": "Eastern Mennonite University",
+    "university_abbrev": [
+      "EMU"
+    ]
+  },
+  {
+    "id": 136,
+    "university_name": "Eastern Michigan University",
+    "university_abbrev": [
+      "EMU"
+    ]
+  },
+  {
+    "id": 137,
+    "university_name": "Eastern Nazarene College",
+    "university_abbrev": [
+      "ENC"
+    ]
+  },
+  {
+    "id": 138,
+    "university_name": "Eastern Washington University",
+    "university_abbrev": [
+      "EWU"
+    ]
+  },
+  {
+    "id": 139,
+    "university_name": "Elizabeth City State University",
+    "university_abbrev": [
+      "ECSU"
+    ]
+  },
+  {
+    "id": 140,
+    "university_name": "Emporia State University",
+    "university_abbrev": [
+      "ESU"
+    ]
+  },
+  {
+    "id": 141,
+    "university_name": "Fairleigh Dickinson University",
+    "university_abbrev": [
+      "FDU"
+    ]
+  },
+  {
+    "id": 142,
+    "university_name": "Fashion Institute of Technology",
+    "university_abbrev": [
+      "FIT"
+    ]
+  },
+  {
+    "id": 143,
+    "university_name": "Fayetteville State University",
+    "university_abbrev": [
+      "FSU"
+    ]
+  },
+  {
+    "id": 144,
+    "university_name": "Ferris State University",
+    "university_abbrev": [
+      "FSU"
+    ]
+  },
+  {
+    "id": 145,
+    "university_name": "Fitchburg State University",
+    "university_abbrev": [
+      "FSU"
+    ]
+  },
+  {
+    "id": 146,
+    "university_name": "Florida A&M University",
+    "university_abbrev": [
+      "FAMU"
+    ]
+  },
+  {
+    "id": 147,
+    "university_name": "Florida Atlantic University",
+    "university_abbrev": [
+      "FAU"
+    ]
+  },
+  {
+    "id": 148,
+    "university_name": "Florida Gulf Coast University",
+    "university_abbrev": [
+      "FGCU"
+    ]
+  },
+  {
+    "id": 149,
+    "university_name": "Florida Institute of Technology",
+    "university_abbrev": [
+      "Florida Tech"
+    ]
+  },
+  {
+    "id": 150,
+    "university_name": "Florida International University",
+    "university_abbrev": [
+      "FIU"
+    ]
+  },
+  {
+    "id": 151,
+    "university_name": "Florida State University",
+    "university_abbrev": [
+      "FSU"
+    ]
+  },
+  {
+    "id": 152,
+    "university_name": "Foothill College",
+    "university_abbrev": [
+      "Foothill"
+    ]
+  },
+  {
+    "id": 153,
+    "university_name": "Fordham University",
+    "university_abbrev": [
+      "FU"
+    ]
+  },
+  {
+    "id": 154,
+    "university_name": "Fort Hays State University",
+    "university_abbrev": [
+      "FHSU"
+    ]
+  },
+  {
+    "id": 155,
+    "university_name": "Framingham State University",
+    "university_abbrev": [
+      "FSU"
+    ]
+  },
+  {
+    "id": 156,
+    "university_name": "Franklin & Marshall College",
+    "university_abbrev": [
+      "F&M"
+    ]
+  },
+  {
+    "id": 157,
+    "university_name": "Fresno Pacific University",
+    "university_abbrev": [
+      "FPU"
+    ]
+  },
+  {
+    "id": 158,
+    "university_name": "Frostburg State University",
+    "university_abbrev": [
+      "FSU"
+    ]
+  },
+  {
+    "id": 159,
+    "university_name": "Furman University",
+    "university_abbrev": [
+      "FU"
+    ]
+  },
+  {
+    "id": 160,
+    "university_name": "Gallaudet University",
+    "university_abbrev": [
+      "GU"
+    ]
+  },
+  {
+    "id": 161,
+    "university_name": "Gardner-Webb University",
+    "university_abbrev": [
+      "GW or GWU"
+    ]
+  },
+  {
+    "id": 162,
+    "university_name": "George Mason University",
+    "university_abbrev": [
+      "GMU",
+      "Mason"
+    ]
+  },
+  {
+    "id": 164,
+    "university_name": "George Washington University",
+    "university_abbrev": [
+      "GW or GWU"
+    ]
+  },
+  {
+    "id": 165,
+    "university_name": "Georgetown University",
+    "university_abbrev": [
+      "GU"
+    ]
+  },
+  {
+    "id": 166,
+    "university_name": "Georgia College & State University",
+    "university_abbrev": [
+      "GC&SU or GCSU",
+      "Georgia College"
+    ]
+  },
+  {
+    "id": 168,
+    "university_name": "Georgia Gwinnett College",
+    "university_abbrev": [
+      "GGC"
+    ]
+  },
+  {
+    "id": 169,
+    "university_name": "Georgia Institute of Technology",
+    "university_abbrev": [
+      "Georgia Tech",
+      "GT"
+    ]
+  },
+  {
+    "id": 171,
+    "university_name": "Georgia Southern University",
+    "university_abbrev": [
+      "GSU"
+    ]
+  },
+  {
+    "id": 172,
+    "university_name": "Georgia State University",
+    "university_abbrev": [
+      "GSU"
+    ]
+  },
+  {
+    "id": 173,
+    "university_name": "Gonzaga University",
+    "university_abbrev": [
+      "GONZ",
+      "GU"
+    ]
+  },
+  {
+    "id": 175,
+    "university_name": "Grambling State University",
+    "university_abbrev": [
+      "GSU"
+    ]
+  },
+  {
+    "id": 176,
+    "university_name": "Grand Canyon University",
+    "university_abbrev": [
+      "GCU"
+    ]
+  },
+  {
+    "id": 177,
+    "university_name": "Grand Valley State University",
+    "university_abbrev": [
+      "GVSU"
+    ]
+  },
+  {
+    "id": 178,
+    "university_name": "Gustavus Adolphus College",
+    "university_abbrev": [
+      "GAC"
+    ]
+  },
+  {
+    "id": 179,
+    "university_name": "Hampden Sydney College",
+    "university_abbrev": [
+      "HSC or H-SC"
+    ]
+  },
+  {
+    "id": 180,
+    "university_name": "Hampton University",
+    "university_abbrev": [
+      "HIU",
+      "HU"
+    ]
+  },
+  {
+    "id": 182,
+    "university_name": "Hardin-Simmons University",
+    "university_abbrev": [
+      "HSU"
+    ]
+  },
+  {
+    "id": 183,
+    "university_name": "Harvey Mudd College",
+    "university_abbrev": [
+      "HMC",
+      "Mudd"
+    ]
+  },
+  {
+    "id": 185,
+    "university_name": "Haverford College",
+    "university_abbrev": [
+      "HC"
+    ]
+  },
+  {
+    "id": 186,
+    "university_name": "Holy Family University",
+    "university_abbrev": [
+      "HFU"
+    ]
+  },
+  {
+    "id": 187,
+    "university_name": "Howard University",
+    "university_abbrev": [
+      "HU"
+    ]
+  },
+  {
+    "id": 188,
+    "university_name": "Humboldt State University",
+    "university_abbrev": [
+      "HSU"
+    ]
+  },
+  {
+    "id": 189,
+    "university_name": "Idaho State University",
+    "university_abbrev": [
+      "ISU"
+    ]
+  },
+  {
+    "id": 190,
+    "university_name": "Illinois Institute of Technology",
+    "university_abbrev": [
+      "IIT"
+    ]
+  },
+  {
+    "id": 191,
+    "university_name": "Illinois State University",
+    "university_abbrev": [
+      "ISU"
+    ]
+  },
+  {
+    "id": 192,
+    "university_name": "Illinois Wesleyan University",
+    "university_abbrev": [
+      "IWU"
+    ]
+  },
+  {
+    "id": 193,
+    "university_name": "Indiana State University",
+    "university_abbrev": [
+      "ISU"
+    ]
+  },
+  {
+    "id": 194,
+    "university_name": "Indiana University Bloomington",
+    "university_abbrev": [
+      "IU"
+    ]
+  },
+  {
+    "id": 195,
+    "university_name": "Indiana University of Pennsylvania",
+    "university_abbrev": [
+      "IUP"
+    ]
+  },
+  {
+    "id": 196,
+    "university_name": "Indiana University-Purdue University Fort Wayne",
+    "university_abbrev": [
+      "IPFW"
+    ]
+  },
+  {
+    "id": 197,
+    "university_name": "Indiana University-Purdue University Indianapolis",
+    "university_abbrev": [
+      "IUPUI"
+    ]
+  },
+  {
+    "id": 198,
+    "university_name": "Institute of Technology",
+    "university_abbrev": [
+      "Tech"
+    ]
+  },
+  {
+    "id": 199,
+    "university_name": "Iowa State University",
+    "university_abbrev": [
+      "ISU"
+    ]
+  },
+  {
+    "id": 200,
+    "university_name": "Iowa Wesleyan University",
+    "university_abbrev": [
+      "IW"
+    ]
+  },
+  {
+    "id": 201,
+    "university_name": "Ithaca College",
+    "university_abbrev": [
+      "IC"
+    ]
+  },
+  {
+    "id": 202,
+    "university_name": "Jackson State University",
+    "university_abbrev": [
+      "JSU"
+    ]
+  },
+  {
+    "id": 203,
+    "university_name": "Jacksonville State University",
+    "university_abbrev": [
+      "JSU",
+      "Jax st or J'ville st"
+    ]
+  },
+  {
+    "id": 205,
+    "university_name": "Jacksonville University",
+    "university_abbrev": [
+      "JU"
+    ]
+  },
+  {
+    "id": 206,
+    "university_name": "James Madison University",
+    "university_abbrev": [
+      "JMU",
+      "Madison"
+    ]
+  },
+  {
+    "id": 208,
+    "university_name": "John Brown University",
+    "university_abbrev": [
+      "JBU"
+    ]
+  },
+  {
+    "id": 209,
+    "university_name": "Johns Hopkins University",
+    "university_abbrev": [
+      "Hopkins",
+      "JHU"
+    ]
+  },
+  {
+    "id": 211,
+    "university_name": "Johnson C. Smith University",
+    "university_abbrev": [
+      "JCSU"
+    ]
+  },
+  {
+    "id": 212,
+    "university_name": "Johnson and Wales University",
+    "university_abbrev": [
+      "JWU"
+    ]
+  },
+  {
+    "id": 213,
+    "university_name": "Kansas State University",
+    "university_abbrev": [
+      "K-State",
+      "KSU"
+    ]
+  },
+  {
+    "id": 215,
+    "university_name": "Kennesaw State University",
+    "university_abbrev": [
+      "KSU"
+    ]
+  },
+  {
+    "id": 216,
+    "university_name": "Kent State University",
+    "university_abbrev": [
+      "KSU"
+    ]
+  },
+  {
+    "id": 217,
+    "university_name": "Kentucky State University",
+    "university_abbrev": [
+      "K-State",
+      "KSU",
+      "KYSU"
+    ]
+  },
+  {
+    "id": 220,
+    "university_name": "Kutztown University of Pennsylvania",
+    "university_abbrev": [
+      "KU"
+    ]
+  },
+  {
+    "id": 221,
+    "university_name": "La Salle University",
+    "university_abbrev": [
+      "LSU"
+    ]
+  },
+  {
+    "id": 222,
+    "university_name": "Lake Superior State University",
+    "university_abbrev": [
+      "LSSU"
+    ]
+  },
+  {
+    "id": 223,
+    "university_name": "Lawrence Technological University",
+    "university_abbrev": [
+      "LTU"
+    ]
+  },
+  {
+    "id": 224,
+    "university_name": "LeTourneau University",
+    "university_abbrev": [
+      "LETU"
+    ]
+  },
+  {
+    "id": 225,
+    "university_name": "Lehigh University",
+    "university_abbrev": [
+      "LU"
+    ]
+  },
+  {
+    "id": 226,
+    "university_name": "Liberty University",
+    "university_abbrev": [
+      "LU"
+    ]
+  },
+  {
+    "id": 227,
+    "university_name": "Lincoln Memorial University",
+    "university_abbrev": [
+      "LMU"
+    ]
+  },
+  {
+    "id": 228,
+    "university_name": "Lipscomb University",
+    "university_abbrev": [
+      "LU"
+    ]
+  },
+  {
+    "id": 229,
+    "university_name": "Lock Haven University",
+    "university_abbrev": [
+      "LHU"
+    ]
+  },
+  {
+    "id": 230,
+    "university_name": "Long Island University",
+    "university_abbrev": [
+      "LIU"
+    ]
+  },
+  {
+    "id": 231,
+    "university_name": "Louisburg College",
+    "university_abbrev": [
+      "LC"
+    ]
+  },
+  {
+    "id": 232,
+    "university_name": "Louisiana State University",
+    "university_abbrev": [
+      "LSU"
+    ]
+  },
+  {
+    "id": 233,
+    "university_name": "Louisiana Tech University",
+    "university_abbrev": [
+      "LA Tech"
+    ]
+  },
+  {
+    "id": 234,
+    "university_name": "Loyola Marymount University",
+    "university_abbrev": [
+      "LMU"
+    ]
+  },
+  {
+    "id": 235,
+    "university_name": "Loyola University Chicago",
+    "university_abbrev": [
+      "LUC"
+    ]
+  },
+  {
+    "id": 236,
+    "university_name": "Manhattanville University",
+    "university_abbrev": [
+      "MVille"
+    ]
+  },
+  {
+    "id": 237,
+    "university_name": "Marymount Manhattan College",
+    "university_abbrev": [
+      "MMC"
+    ]
+  },
+  {
+    "id": 238,
+    "university_name": "Marymount University",
+    "university_abbrev": [
+      "MU"
+    ]
+  },
+  {
+    "id": 239,
+    "university_name": "Massachusetts College of Liberal Arts",
+    "university_abbrev": [
+      "MCLA"
+    ]
+  },
+  {
+    "id": 240,
+    "university_name": "Massachusetts Institute of Technology",
+    "university_abbrev": [
+      "MIT"
+    ]
+  },
+  {
+    "id": 241,
+    "university_name": "Mercyhurst University",
+    "university_abbrev": [
+      "MU"
+    ]
+  },
+  {
+    "id": 242,
+    "university_name": "Metropolitan State University of Denver",
+    "university_abbrev": [
+      "Metro State"
+    ]
+  },
+  {
+    "id": 243,
+    "university_name": "Miami University",
+    "university_abbrev": [
+      "MU"
+    ]
+  },
+  {
+    "id": 244,
+    "university_name": "Michigan State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 245,
+    "university_name": "Michigan Technological University",
+    "university_abbrev": [
+      "MTU"
+    ]
+  },
+  {
+    "id": 246,
+    "university_name": "Middle Tennessee State University",
+    "university_abbrev": [
+      "MTSU"
+    ]
+  },
+  {
+    "id": 247,
+    "university_name": "Middlebury College",
+    "university_abbrev": [
+      "Midd"
+    ]
+  },
+  {
+    "id": 248,
+    "university_name": "Millersville University",
+    "university_abbrev": [
+      "MU"
+    ]
+  },
+  {
+    "id": 249,
+    "university_name": "Misericordia University",
+    "university_abbrev": [
+      "MU"
+    ]
+  },
+  {
+    "id": 250,
+    "university_name": "Mississippi State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 251,
+    "university_name": "Mississippi University for Women",
+    "university_abbrev": [
+      "MUW"
+    ]
+  },
+  {
+    "id": 252,
+    "university_name": "Mississippi Valley State University",
+    "university_abbrev": [
+      "MVSU"
+    ]
+  },
+  {
+    "id": 253,
+    "university_name": "Missouri State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 254,
+    "university_name": "Missouri University of Science and Technology",
+    "university_abbrev": [
+      "Missouri S&T"
+    ]
+  },
+  {
+    "id": 255,
+    "university_name": "Montana State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 256,
+    "university_name": "Montana State University System",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 257,
+    "university_name": "Montclair State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 258,
+    "university_name": "Morehead State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 259,
+    "university_name": "Morgan State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 260,
+    "university_name": "Mount Holyoke College",
+    "university_abbrev": [
+      "MHC or MoHo"
+    ]
+  },
+  {
+    "id": 261,
+    "university_name": "Mountain State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 262,
+    "university_name": "Mt. San Antonio College",
+    "university_abbrev": [
+      "Mt. SAC"
+    ]
+  },
+  {
+    "id": 263,
+    "university_name": "Murray State University",
+    "university_abbrev": [
+      "MSU"
+    ]
+  },
+  {
+    "id": 264,
+    "university_name": "National American University",
+    "university_abbrev": [
+      "NAU"
+    ]
+  },
+  {
+    "id": 265,
+    "university_name": "New College Berkeley",
+    "university_abbrev": [
+      "NCB"
+    ]
+  },
+  {
+    "id": 266,
+    "university_name": "New College of Florida",
+    "university_abbrev": [
+      "NCF"
+    ]
+  },
+  {
+    "id": 267,
+    "university_name": "New Jersey Institute of Technology",
+    "university_abbrev": [
+      "NJIT"
+    ]
+  },
+  {
+    "id": 268,
+    "university_name": "New Mexico State University",
+    "university_abbrev": [
+      "NMSU"
+    ]
+  },
+  {
+    "id": 269,
+    "university_name": "New York City College of Technology",
+    "university_abbrev": [
+      "City Tech"
+    ]
+  },
+  {
+    "id": 270,
+    "university_name": "New York Institute of Technology",
+    "university_abbrev": [
+      "NYIT"
+    ]
+  },
+  {
+    "id": 271,
+    "university_name": "New York Medical College",
+    "university_abbrev": [
+      "NYMC"
+    ]
+  },
+  {
+    "id": 272,
+    "university_name": "New York University",
+    "university_abbrev": [
+      "NYU"
+    ]
+  },
+  {
+    "id": 273,
+    "university_name": "Niagara University",
+    "university_abbrev": [
+      "NU"
+    ]
+  },
+  {
+    "id": 274,
+    "university_name": "Norfolk State University",
+    "university_abbrev": [
+      "NSU"
+    ]
+  },
+  {
+    "id": 275,
+    "university_name": "North Carolina A&T State University",
+    "university_abbrev": [
+      "A&T",
+      "NC A&T"
+    ]
+  },
+  {
+    "id": 277,
+    "university_name": "North Carolina Central University",
+    "university_abbrev": [
+      "Central",
+      "NCCU"
+    ]
+  },
+  {
+    "id": 279,
+    "university_name": "North Carolina State University",
+    "university_abbrev": [
+      "NCSU"
+    ]
+  },
+  {
+    "id": 280,
+    "university_name": "North Dakota State University",
+    "university_abbrev": [
+      "NDSU"
+    ]
+  },
+  {
+    "id": 281,
+    "university_name": "Northeastern State University",
+    "university_abbrev": [
+      "NSU"
+    ]
+  },
+  {
+    "id": 282,
+    "university_name": "Northeastern University",
+    "university_abbrev": [
+      "NEU",
+      "NU"
+    ]
+  },
+  {
+    "id": 284,
+    "university_name": "Northern Arizona University",
+    "university_abbrev": [
+      "NAU"
+    ]
+  },
+  {
+    "id": 285,
+    "university_name": "Northern Illinois University",
+    "university_abbrev": [
+      "NIU"
+    ]
+  },
+  {
+    "id": 286,
+    "university_name": "Northern Kentucky University",
+    "university_abbrev": [
+      "NKU"
+    ]
+  },
+  {
+    "id": 287,
+    "university_name": "Northern Michigan University",
+    "university_abbrev": [
+      "NMU"
+    ]
+  },
+  {
+    "id": 288,
+    "university_name": "Northern State University",
+    "university_abbrev": [
+      "NSU"
+    ]
+  },
+  {
+    "id": 289,
+    "university_name": "Northern Vermont University",
+    "university_abbrev": [
+      "NVU"
+    ]
+  },
+  {
+    "id": 290,
+    "university_name": "Northern Virginia Community College",
+    "university_abbrev": [
+      "Nova"
+    ]
+  },
+  {
+    "id": 291,
+    "university_name": "Northwest Missouri State University",
+    "university_abbrev": [
+      "NWMSU"
+    ]
+  },
+  {
+    "id": 292,
+    "university_name": "Northwestern State University",
+    "university_abbrev": [
+      "NSU"
+    ]
+  },
+  {
+    "id": 293,
+    "university_name": "Northwestern University",
+    "university_abbrev": [
+      "NU"
+    ]
+  },
+  {
+    "id": 294,
+    "university_name": "Norwich University",
+    "university_abbrev": [
+      "NU"
+    ]
+  },
+  {
+    "id": 295,
+    "university_name": "Nova Southeastern University",
+    "university_abbrev": [
+      "NSU"
+    ]
+  },
+  {
+    "id": 296,
+    "university_name": "Oakland University",
+    "university_abbrev": [
+      "OU"
+    ]
+  },
+  {
+    "id": 297,
+    "university_name": "Oakwood University",
+    "university_abbrev": [
+      "OU"
+    ]
+  },
+  {
+    "id": 298,
+    "university_name": "Occidental College",
+    "university_abbrev": [
+      "Oxy"
+    ]
+  },
+  {
+    "id": 299,
+    "university_name": "Ohio Dominican University",
+    "university_abbrev": [
+      "ODU"
+    ]
+  },
+  {
+    "id": 300,
+    "university_name": "Ohio Northern University",
+    "university_abbrev": [
+      "ONU"
+    ]
+  },
+  {
+    "id": 301,
+    "university_name": "Ohio State University",
+    "university_abbrev": [
+      "OSU"
+    ]
+  },
+  {
+    "id": 302,
+    "university_name": "Ohio University",
+    "university_abbrev": [
+      "OU"
+    ]
+  },
+  {
+    "id": 303,
+    "university_name": "Oklahoma Baptist University",
+    "university_abbrev": [
+      "OBU"
+    ]
+  },
+  {
+    "id": 304,
+    "university_name": "Oklahoma Christian University",
+    "university_abbrev": [
+      "OC"
+    ]
+  },
+  {
+    "id": 305,
+    "university_name": "Oklahoma City University",
+    "university_abbrev": [
+      "OCU"
+    ]
+  },
+  {
+    "id": 306,
+    "university_name": "Oklahoma State University",
+    "university_abbrev": [
+      "OK State",
+      "OSU"
+    ]
+  },
+  {
+    "id": 308,
+    "university_name": "Old Dominion University",
+    "university_abbrev": [
+      "ODU"
+    ]
+  },
+  {
+    "id": 309,
+    "university_name": "Oral Roberts University",
+    "university_abbrev": [
+      "ORU"
+    ]
+  },
+  {
+    "id": 310,
+    "university_name": "Orange Coast College",
+    "university_abbrev": [
+      "OCC"
+    ]
+  },
+  {
+    "id": 311,
+    "university_name": "Oregon Institute of Technology",
+    "university_abbrev": [
+      "OIT"
+    ]
+  },
+  {
+    "id": 312,
+    "university_name": "Oregon State University",
+    "university_abbrev": [
+      "OSU"
+    ]
+  },
+  {
+    "id": 313,
+    "university_name": "Pasadena City College",
+    "university_abbrev": [
+      "PCC"
+    ]
+  },
+  {
+    "id": 314,
+    "university_name": "Pennsylvania State University",
+    "university_abbrev": [
+      "Penn State",
+      "PSU"
+    ]
+  },
+  {
+    "id": 316,
+    "university_name": "Pennsylvania Western University",
+    "university_abbrev": [
+      "PennWest"
+    ]
+  },
+  {
+    "id": 317,
+    "university_name": "Pensacola Christian College",
+    "university_abbrev": [
+      "PCC"
+    ]
+  },
+  {
+    "id": 318,
+    "university_name": "Pima Community College",
+    "university_abbrev": [
+      "PCC"
+    ]
+  },
+  {
+    "id": 319,
+    "university_name": "Pittsburg State University",
+    "university_abbrev": [
+      "PSU"
+    ]
+  },
+  {
+    "id": 320,
+    "university_name": "Plymouth State University",
+    "university_abbrev": [
+      "PSU"
+    ]
+  },
+  {
+    "id": 321,
+    "university_name": "Point Loma Nazarene University",
+    "university_abbrev": [
+      "PLNU"
+    ]
+  },
+  {
+    "id": 322,
+    "university_name": "Polk Community College",
+    "university_abbrev": [
+      "PCC"
+    ]
+  },
+  {
+    "id": 323,
+    "university_name": "Pomona College",
+    "university_abbrev": [
+      "POM"
+    ]
+  },
+  {
+    "id": 324,
+    "university_name": "Portland Community College",
+    "university_abbrev": [
+      "PCC"
+    ]
+  },
+  {
+    "id": 325,
+    "university_name": "Portland State University",
+    "university_abbrev": [
+      "PSU"
+    ]
+  },
+  {
+    "id": 326,
+    "university_name": "Prairie View A&M University",
+    "university_abbrev": [
+      "PVAMU"
+    ]
+  },
+  {
+    "id": 327,
+    "university_name": "Presbyterian College",
+    "university_abbrev": [
+      "PC"
+    ]
+  },
+  {
+    "id": 328,
+    "university_name": "Princeton Theological Seminary",
+    "university_abbrev": [
+      "PTS"
+    ]
+  },
+  {
+    "id": 329,
+    "university_name": "Providence College",
+    "university_abbrev": [
+      "PC"
+    ]
+  },
+  {
+    "id": 330,
+    "university_name": "Pueblo Community College",
+    "university_abbrev": [
+      "PCC"
+    ]
+  },
+  {
+    "id": 331,
+    "university_name": "Queens College, City University of New York",
+    "university_abbrev": [
+      "QC"
+    ]
+  },
+  {
+    "id": 332,
+    "university_name": "Quincy College",
+    "university_abbrev": [
+      "QC"
+    ]
+  },
+  {
+    "id": 333,
+    "university_name": "Quincy University",
+    "university_abbrev": [
+      "QU"
+    ]
+  },
+  {
+    "id": 334,
+    "university_name": "Quinnipiac University",
+    "university_abbrev": [
+      "QU"
+    ]
+  },
+  {
+    "id": 335,
+    "university_name": "Randolph-Macon Woman's College",
+    "university_abbrev": [
+      "R-MWC"
+    ]
+  },
+  {
+    "id": 336,
+    "university_name": "Rensselaer Polytechnic Institute",
+    "university_abbrev": [
+      "RPI"
+    ]
+  },
+  {
+    "id": 337,
+    "university_name": "Rhode Island College",
+    "university_abbrev": [
+      "RIC"
+    ]
+  },
+  {
+    "id": 338,
+    "university_name": "Rhode Island School of Design",
+    "university_abbrev": [
+      "RISD"
+    ]
+  },
+  {
+    "id": 339,
+    "university_name": "Ringling College of Art and Design",
+    "university_abbrev": [
+      "RCAD"
+    ]
+  },
+  {
+    "id": 340,
+    "university_name": "Robert Morris University",
+    "university_abbrev": [
+      "RMU"
+    ]
+  },
+  {
+    "id": 341,
+    "university_name": "Rochester Institute of Technology",
+    "university_abbrev": [
+      "RIT"
+    ]
+  },
+  {
+    "id": 342,
+    "university_name": "Roger Williams University",
+    "university_abbrev": [
+      "RWU"
+    ]
+  },
+  {
+    "id": 343,
+    "university_name": "Rose-Hulman Institute of Technology",
+    "university_abbrev": [
+      "RHIT"
+    ]
+  },
+  {
+    "id": 344,
+    "university_name": "Rutgers University",
+    "university_abbrev": [
+      "RU"
+    ]
+  },
+  {
+    "id": 345,
+    "university_name": "Saginaw Valley State University",
+    "university_abbrev": [
+      "SVSU"
+    ]
+  },
+  {
+    "id": 346,
+    "university_name": "Saint Elizabeth University",
+    "university_abbrev": [
+      "SEU"
+    ]
+  },
+  {
+    "id": 347,
+    "university_name": "Saint Joseph's University",
+    "university_abbrev": [
+      "SJU"
+    ]
+  },
+  {
+    "id": 348,
+    "university_name": "Saint Leo University",
+    "university_abbrev": [
+      "SLU"
+    ]
+  },
+  {
+    "id": 349,
+    "university_name": "Saint Louis University",
+    "university_abbrev": [
+      "SLU"
+    ]
+  },
+  {
+    "id": 350,
+    "university_name": "Saint Mary's College of California",
+    "university_abbrev": [
+      "SMC"
+    ]
+  },
+  {
+    "id": 351,
+    "university_name": "Salisbury University",
+    "university_abbrev": [
+      "SU"
+    ]
+  },
+  {
+    "id": 352,
+    "university_name": "Samford University",
+    "university_abbrev": [
+      "SU"
+    ]
+  },
+  {
+    "id": 353,
+    "university_name": "San Diego State University",
+    "university_abbrev": [
+      "SDSU"
+    ]
+  },
+  {
+    "id": 354,
+    "university_name": "San Francisco State University",
+    "university_abbrev": [
+      "SFSU"
+    ]
+  },
+  {
+    "id": 355,
+    "university_name": "San Jose State University",
+    "university_abbrev": [
+      "SJSU"
+    ]
+  },
+  {
+    "id": 356,
+    "university_name": "Santa Clara University",
+    "university_abbrev": [
+      "SCU"
+    ]
+  },
+  {
+    "id": 357,
+    "university_name": "Savannah State University",
+    "university_abbrev": [
+      "SSU"
+    ]
+  },
+  {
+    "id": 358,
+    "university_name": "Schreiner University",
+    "university_abbrev": [
+      "SU"
+    ]
+  },
+  {
+    "id": 359,
+    "university_name": "Scripps College",
+    "university_abbrev": [
+      "Scripps"
+    ]
+  },
+  {
+    "id": 360,
+    "university_name": "Scripps Institution of Oceanography",
+    "university_abbrev": [
+      "Scripps"
+    ]
+  },
+  {
+    "id": 361,
+    "university_name": "Seattle Pacific University",
+    "university_abbrev": [
+      "SPU"
+    ]
+  },
+  {
+    "id": 362,
+    "university_name": "Seattle University",
+    "university_abbrev": [
+      "SeattleU"
+    ]
+  },
+  {
+    "id": 363,
+    "university_name": "Sewanee: The University of the South",
+    "university_abbrev": [
+      "Sewanee:"
+    ]
+  },
+  {
+    "id": 364,
+    "university_name": "Shenandoah University",
+    "university_abbrev": [
+      "SU"
+    ]
+  },
+  {
+    "id": 365,
+    "university_name": "Slippery Rock University of Pennsylvania",
+    "university_abbrev": [
+      "SRU"
+    ]
+  },
+  {
+    "id": 366,
+    "university_name": "South Carolina State University",
+    "university_abbrev": [
+      "SCSU"
+    ]
+  },
+  {
+    "id": 367,
+    "university_name": "South Dakota School of Mines and Technology",
+    "university_abbrev": [
+      "SDSM&T"
+    ]
+  },
+  {
+    "id": 368,
+    "university_name": "South Dakota State University",
+    "university_abbrev": [
+      "SDSU"
+    ]
+  },
+  {
+    "id": 369,
+    "university_name": "Southeast Missouri State University",
+    "university_abbrev": [
+      "SEMo"
+    ]
+  },
+  {
+    "id": 370,
+    "university_name": "Southeastern Oklahoma State University",
+    "university_abbrev": [
+      "SOSU"
+    ]
+  },
+  {
+    "id": 371,
+    "university_name": "Southern Connecticut State University",
+    "university_abbrev": [
+      "SCSU"
+    ]
+  },
+  {
+    "id": 372,
+    "university_name": "Southern Illinois University Carbondale",
+    "university_abbrev": [
+      "SIU or SIUC"
+    ]
+  },
+  {
+    "id": 373,
+    "university_name": "Southern Illinois University Edwardsville",
+    "university_abbrev": [
+      "SIUE"
+    ]
+  },
+  {
+    "id": 374,
+    "university_name": "Southern Methodist University",
+    "university_abbrev": [
+      "SMU"
+    ]
+  },
+  {
+    "id": 375,
+    "university_name": "Southern New Hampshire University",
+    "university_abbrev": [
+      "SNHU"
+    ]
+  },
+  {
+    "id": 376,
+    "university_name": "Southern University",
+    "university_abbrev": [
+      "SU"
+    ]
+  },
+  {
+    "id": 377,
+    "university_name": "Southern University at New Orleans",
+    "university_abbrev": [
+      "SUNO"
+    ]
+  },
+  {
+    "id": 378,
+    "university_name": "Southern Utah University",
+    "university_abbrev": [
+      "SUU"
+    ]
+  },
+  {
+    "id": 379,
+    "university_name": "Southwestern Oklahoma State University",
+    "university_abbrev": [
+      "SWOSU"
+    ]
+  },
+  {
+    "id": 380,
+    "university_name": "Southwestern University",
+    "university_abbrev": [
+      "SU"
+    ]
+  },
+  {
+    "id": 381,
+    "university_name": "Spring Hill College",
+    "university_abbrev": [
+      "SHC"
+    ]
+  },
+  {
+    "id": 382,
+    "university_name": "St. Bonaventure University",
+    "university_abbrev": [
+      "Bona",
+      "SBU"
+    ]
+  },
+  {
+    "id": 384,
+    "university_name": "St. John Fisher University",
+    "university_abbrev": [
+      "SJFU"
+    ]
+  },
+  {
+    "id": 385,
+    "university_name": "St. John's College (Annapolis/Santa Fe)",
+    "university_abbrev": [
+      "SJC"
+    ]
+  },
+  {
+    "id": 386,
+    "university_name": "St. John's University (New York)",
+    "university_abbrev": [
+      "SJU"
+    ]
+  },
+  {
+    "id": 387,
+    "university_name": "St. Lawrence University",
+    "university_abbrev": [
+      "SLU"
+    ]
+  },
+  {
+    "id": 388,
+    "university_name": "State University of New York",
+    "university_abbrev": [
+      "SUNY"
+    ]
+  },
+  {
+    "id": 389,
+    "university_name": "Stephen F. Austin State University",
+    "university_abbrev": [
+      "SFA or SFASU"
+    ]
+  },
+  {
+    "id": 390,
+    "university_name": "Susquehanna University",
+    "university_abbrev": [
+      "SU"
+    ]
+  },
+  {
+    "id": 391,
+    "university_name": "Swarthmore College",
+    "university_abbrev": [
+      "Swat"
+    ]
+  },
+  {
+    "id": 392,
+    "university_name": "Syracuse University",
+    "university_abbrev": [
+      "'Cuse",
+      "SU"
+    ]
+  },
+  {
+    "id": 394,
+    "university_name": "Tarleton State University",
+    "university_abbrev": [
+      "TSU"
+    ]
+  },
+  {
+    "id": 395,
+    "university_name": "Temple University",
+    "university_abbrev": [
+      "TU"
+    ]
+  },
+  {
+    "id": 396,
+    "university_name": "Tennessee State University",
+    "university_abbrev": [
+      "TSU"
+    ]
+  },
+  {
+    "id": 397,
+    "university_name": "Tennessee Technological University",
+    "university_abbrev": [
+      "TTU"
+    ]
+  },
+  {
+    "id": 398,
+    "university_name": "Texas A&M University",
+    "university_abbrev": [
+      "A&M",
+      "TAMU"
+    ]
+  },
+  {
+    "id": 400,
+    "university_name": "Texas A&M University–Corpus Christi",
+    "university_abbrev": [
+      "A&M-CC or A&M-Corpus Christi",
+      "TAMUCC"
+    ]
+  },
+  {
+    "id": 402,
+    "university_name": "Texas Christian University",
+    "university_abbrev": [
+      "TCU"
+    ]
+  },
+  {
+    "id": 403,
+    "university_name": "Texas Southern University",
+    "university_abbrev": [
+      "TSU"
+    ]
+  },
+  {
+    "id": 404,
+    "university_name": "Texas State University–San Marcos",
+    "university_abbrev": [
+      "TxSt"
+    ]
+  },
+  {
+    "id": 405,
+    "university_name": "Texas Tech University",
+    "university_abbrev": [
+      "TTU"
+    ]
+  },
+  {
+    "id": 406,
+    "university_name": "The College of New Jersey",
+    "university_abbrev": [
+      "TCNJ"
+    ]
+  },
+  {
+    "id": 407,
+    "university_name": "The College of William & Mary",
+    "university_abbrev": [
+      "W&M"
+    ]
+  },
+  {
+    "id": 408,
+    "university_name": "The Culinary Institute of America",
+    "university_abbrev": [
+      "CIA"
+    ]
+  },
+  {
+    "id": 409,
+    "university_name": "The University of Southern Mississippi",
+    "university_abbrev": [
+      "USM"
+    ]
+  },
+  {
+    "id": 410,
+    "university_name": "Towson University",
+    "university_abbrev": [
+      "TU"
+    ]
+  },
+  {
+    "id": 411,
+    "university_name": "Transylvania University",
+    "university_abbrev": [
+      "Transy"
+    ]
+  },
+  {
+    "id": 412,
+    "university_name": "Truman State University",
+    "university_abbrev": [
+      "TSU"
+    ]
+  },
+  {
+    "id": 413,
+    "university_name": "Tufts University",
+    "university_abbrev": [
+      "TU"
+    ]
+  },
+  {
+    "id": 414,
+    "university_name": "Tulane University",
+    "university_abbrev": [
+      "TU"
+    ]
+  },
+  {
+    "id": 415,
+    "university_name": "Tuskegee University",
+    "university_abbrev": [
+      "TU"
+    ]
+  },
+  {
+    "id": 416,
+    "university_name": "U.S. Merchant Marine Academy",
+    "university_abbrev": [
+      "Merchant Marine, Kings Point"
+    ]
+  },
+  {
+    "id": 417,
+    "university_name": "U.S. Military Academy",
+    "university_abbrev": [
+      "Army"
+    ]
+  },
+  {
+    "id": 418,
+    "university_name": "U.S. Naval Academy",
+    "university_abbrev": [
+      "Annapolis"
+    ]
+  },
+  {
+    "id": 419,
+    "university_name": "Union College",
+    "university_abbrev": [
+      "Union"
+    ]
+  },
+  {
+    "id": 420,
+    "university_name": "United States Air Force Academy",
+    "university_abbrev": [
+      "AFA",
+      "USAFA"
+    ]
+  },
+  {
+    "id": 422,
+    "university_name": "United States Coast Guard Academy",
+    "university_abbrev": [
+      "Coast Guard"
+    ]
+  },
+  {
+    "id": 423,
+    "university_name": "United States Military Academy",
+    "university_abbrev": [
+      "West Point"
+    ]
+  },
+  {
+    "id": 424,
+    "university_name": "United States Naval Academy",
+    "university_abbrev": [
+      "Navy"
+    ]
+  },
+  {
+    "id": 425,
+    "university_name": "University at Buffalo",
+    "university_abbrev": [
+      "UB"
+    ]
+  },
+  {
+    "id": 426,
+    "university_name": "University of Akron",
+    "university_abbrev": [
+      "UA"
+    ]
+  },
+  {
+    "id": 427,
+    "university_name": "University of Alabama",
+    "university_abbrev": [
+      "Bama",
+      "UA"
+    ]
+  },
+  {
+    "id": 429,
+    "university_name": "University of Alabama at Birmingham",
+    "university_abbrev": [
+      "UAB"
+    ]
+  },
+  {
+    "id": 430,
+    "university_name": "University of Alabama in Huntsville",
+    "university_abbrev": [
+      "UAH"
+    ]
+  },
+  {
+    "id": 431,
+    "university_name": "University of Alaska Anchorage",
+    "university_abbrev": [
+      "UAA"
+    ]
+  },
+  {
+    "id": 432,
+    "university_name": "University of Alaska Fairbanks",
+    "university_abbrev": [
+      "UAF"
+    ]
+  },
+  {
+    "id": 433,
+    "university_name": "University of Arizona",
+    "university_abbrev": [
+      "U of A",
+      "UA"
+    ]
+  },
+  {
+    "id": 435,
+    "university_name": "University of Arkansas",
+    "university_abbrev": [
+      "U of A"
+    ]
+  },
+  {
+    "id": 436,
+    "university_name": "University of Arkansas at Little Rock",
+    "university_abbrev": [
+      "UALR"
+    ]
+  },
+  {
+    "id": 437,
+    "university_name": "University of Arkansas at Monticello",
+    "university_abbrev": [
+      "UAM"
+    ]
+  },
+  {
+    "id": 438,
+    "university_name": "University of Arkansas at Pine Bluff",
+    "university_abbrev": [
+      "UAPB"
+    ]
+  },
+  {
+    "id": 439,
+    "university_name": "University of Baltimore",
+    "university_abbrev": [
+      "UB"
+    ]
+  },
+  {
+    "id": 440,
+    "university_name": "University of Bridgeport",
+    "university_abbrev": [
+      "UB"
+    ]
+  },
+  {
+    "id": 442,
+    "university_name": "University of California, Berkeley",
+    "university_abbrev": [
+      "Berkeley",
+      "Cal",
+      "UC Berkeley"
+    ]
+  },
+  {
+    "id": 445,
+    "university_name": "University of California, Davis",
+    "university_abbrev": [
+      "UC Davis",
+      "UCD"
+    ]
+  },
+  {
+    "id": 447,
+    "university_name": "University of California, Irvine",
+    "university_abbrev": [
+      "UC Irvine",
+      "UCI"
+    ]
+  },
+  {
+    "id": 449,
+    "university_name": "University of California, Los Angeles",
+    "university_abbrev": [
+      "UCLA"
+    ]
+  },
+  {
+    "id": 450,
+    "university_name": "University of California, Riverside",
+    "university_abbrev": [
+      "UCR"
+    ]
+  },
+  {
+    "id": 451,
+    "university_name": "University of California, San Diego",
+    "university_abbrev": [
+      "UCSD",
+      "UC San Diego"
+    ]
+  },
+  {
+    "id": 452,
+    "university_name": "University of California, San Francisco",
+    "university_abbrev": [
+      "UCSF"
+    ]
+  },
+  {
+    "id": 453,
+    "university_name": "University of California, Santa Barbara",
+    "university_abbrev": [
+      "UCSB"
+    ]
+  },
+  {
+    "id": 454,
+    "university_name": "University of Central Arkansas",
+    "university_abbrev": [
+      "UCA"
+    ]
+  },
+  {
+    "id": 455,
+    "university_name": "University of Central Florida",
+    "university_abbrev": [
+      "UCF"
+    ]
+  },
+  {
+    "id": 456,
+    "university_name": "University of Central Missouri",
+    "university_abbrev": [
+      "UCM"
+    ]
+  },
+  {
+    "id": 457,
+    "university_name": "University of Central Oklahoma",
+    "university_abbrev": [
+      "UCO"
+    ]
+  },
+  {
+    "id": 458,
+    "university_name": "University of Chicago",
+    "university_abbrev": [
+      "U of C",
+      "UC",
+      "UChicago"
+    ]
+  },
+  {
+    "id": 461,
+    "university_name": "University of Cincinnati",
+    "university_abbrev": [
+      "UC"
+    ]
+  },
+  {
+    "id": 462,
+    "university_name": "University of Colorado Colorado Springs",
+    "university_abbrev": [
+      "Colorado Springs",
+      "UCCS"
+    ]
+  },
+  {
+    "id": 464,
+    "university_name": "University of Colorado Denver",
+    "university_abbrev": [
+      "CUD"
+    ]
+  },
+  {
+    "id": 465,
+    "university_name": "University of Colorado at Boulder",
+    "university_abbrev": [
+      "Boulder",
+      "CU"
+    ]
+  },
+  {
+    "id": 467,
+    "university_name": "University of Colorado system",
+    "university_abbrev": [
+      "CU"
+    ]
+  },
+  {
+    "id": 468,
+    "university_name": "University of Connecticut",
+    "university_abbrev": [
+      "UConn"
+    ]
+  },
+  {
+    "id": 469,
+    "university_name": "University of Dallas",
+    "university_abbrev": [
+      "UD"
+    ]
+  },
+  {
+    "id": 470,
+    "university_name": "University of Dayton",
+    "university_abbrev": [
+      "UD"
+    ]
+  },
+  {
+    "id": 471,
+    "university_name": "University of Delaware",
+    "university_abbrev": [
+      "UD"
+    ]
+  },
+  {
+    "id": 472,
+    "university_name": "University of Denver",
+    "university_abbrev": [
+      "DU"
+    ]
+  },
+  {
+    "id": 473,
+    "university_name": "University of Detroit Mercy",
+    "university_abbrev": [
+      "UDM"
+    ]
+  },
+  {
+    "id": 474,
+    "university_name": "University of Florida",
+    "university_abbrev": [
+      "UF"
+    ]
+  },
+  {
+    "id": 475,
+    "university_name": "University of Georgia",
+    "university_abbrev": [
+      "UGA"
+    ]
+  },
+  {
+    "id": 476,
+    "university_name": "University of Hawaii",
+    "university_abbrev": [
+      "UH"
+    ]
+  },
+  {
+    "id": 477,
+    "university_name": "University of Hawaiʻi at Mānoa",
+    "university_abbrev": [
+      "UH"
+    ]
+  },
+  {
+    "id": 478,
+    "university_name": "University of Houston",
+    "university_abbrev": [
+      "UH",
+      "U of H"
+    ]
+  },
+  {
+    "id": 480,
+    "university_name": "University of Houston System",
+    "university_abbrev": [
+      "UHS"
+    ]
+  },
+  {
+    "id": 481,
+    "university_name": "University of Houston–Clear Lake",
+    "university_abbrev": [
+      "UHCL"
+    ]
+  },
+  {
+    "id": 482,
+    "university_name": "University of Houston–Downtown",
+    "university_abbrev": [
+      "UHD"
+    ]
+  },
+  {
+    "id": 483,
+    "university_name": "University of Houston–Victoria",
+    "university_abbrev": [
+      "UHV"
+    ]
+  },
+  {
+    "id": 484,
+    "university_name": "University of Idaho",
+    "university_abbrev": [
+      "UI or U of I"
+    ]
+  },
+  {
+    "id": 485,
+    "university_name": "University of Illinois at Chicago",
+    "university_abbrev": [
+      "UIC"
+    ]
+  },
+  {
+    "id": 486,
+    "university_name": "University of Illinois at Springfield",
+    "university_abbrev": [
+      "UIS"
+    ]
+  },
+  {
+    "id": 487,
+    "university_name": "University of Illinois at Urbana–Champaign",
+    "university_abbrev": [
+      "UI or U of I",
+      "UIUC"
+    ]
+  },
+  {
+    "id": 489,
+    "university_name": "University of Iowa",
+    "university_abbrev": [
+      "UI or U of I"
+    ]
+  },
+  {
+    "id": 490,
+    "university_name": "University of Kansas",
+    "university_abbrev": [
+      "KU"
+    ]
+  },
+  {
+    "id": 491,
+    "university_name": "University of Kentucky",
+    "university_abbrev": [
+      "UK"
+    ]
+  },
+  {
+    "id": 492,
+    "university_name": "University of Louisiana at Lafayette",
+    "university_abbrev": [
+      "UL"
+    ]
+  },
+  {
+    "id": 493,
+    "university_name": "University of Louisiana at Monroe",
+    "university_abbrev": [
+      "ULM"
+    ]
+  },
+  {
+    "id": 494,
+    "university_name": "University of Louisville",
+    "university_abbrev": [
+      "U of L"
+    ]
+  },
+  {
+    "id": 495,
+    "university_name": "University of Maine at Orono",
+    "university_abbrev": [
+      "UMO"
+    ]
+  },
+  {
+    "id": 496,
+    "university_name": "University of Mary Washington",
+    "university_abbrev": [
+      "Mary Wash",
+      "UMW"
+    ]
+  },
+  {
+    "id": 498,
+    "university_name": "University of Maryland Global Campus",
+    "university_abbrev": [
+      "UMGC"
+    ]
+  },
+  {
+    "id": 499,
+    "university_name": "University of Maryland, Baltimore",
+    "university_abbrev": [
+      "UMB"
+    ]
+  },
+  {
+    "id": 500,
+    "university_name": "University of Maryland, Baltimore County",
+    "university_abbrev": [
+      "UMBC"
+    ]
+  },
+  {
+    "id": 501,
+    "university_name": "University of Maryland, College Park",
+    "university_abbrev": [
+      "College Park",
+      "UMD"
+    ]
+  },
+  {
+    "id": 503,
+    "university_name": "University of Massachusetts Amherst",
+    "university_abbrev": [
+      "UMass"
+    ]
+  },
+  {
+    "id": 504,
+    "university_name": "University of Massachusetts Boston",
+    "university_abbrev": [
+      "UMB"
+    ]
+  },
+  {
+    "id": 505,
+    "university_name": "University of Massachusetts Dartmouth",
+    "university_abbrev": [
+      "UMD"
+    ]
+  },
+  {
+    "id": 506,
+    "university_name": "University of Massachusetts Lowell",
+    "university_abbrev": [
+      "UML"
+    ]
+  },
+  {
+    "id": 507,
+    "university_name": "University of Memphis",
+    "university_abbrev": [
+      "Memphis",
+      "U of M"
+    ]
+  },
+  {
+    "id": 509,
+    "university_name": "University of Miami",
+    "university_abbrev": [
+      "The U",
+      "U of M"
+    ]
+  },
+  {
+    "id": 511,
+    "university_name": "University of Michigan",
+    "university_abbrev": [
+      "U of M",
+      "UMich"
+    ]
+  },
+  {
+    "id": 513,
+    "university_name": "University of Michigan–Dearborn",
+    "university_abbrev": [
+      "UMD"
+    ]
+  },
+  {
+    "id": 514,
+    "university_name": "University of Minnesota",
+    "university_abbrev": [
+      "The U",
+      "U of M"
+    ]
+  },
+  {
+    "id": 516,
+    "university_name": "University of Minnesota Duluth",
+    "university_abbrev": [
+      "UMD"
+    ]
+  },
+  {
+    "id": 517,
+    "university_name": "University of Mississippi",
+    "university_abbrev": [
+      "Ole Miss"
+    ]
+  },
+  {
+    "id": 518,
+    "university_name": "University of Missouri",
+    "university_abbrev": [
+      "Mizzou",
+      "MU"
+    ]
+  },
+  {
+    "id": 520,
+    "university_name": "University of Missouri–Kansas City",
+    "university_abbrev": [
+      "UMKC"
+    ]
+  },
+  {
+    "id": 521,
+    "university_name": "University of Montana",
+    "university_abbrev": [
+      "U of M"
+    ]
+  },
+  {
+    "id": 522,
+    "university_name": "University of Nebraska at Kearney",
+    "university_abbrev": [
+      "UNK"
+    ]
+  },
+  {
+    "id": 523,
+    "university_name": "University of Nebraska at Omaha",
+    "university_abbrev": [
+      "UNO"
+    ]
+  },
+  {
+    "id": 524,
+    "university_name": "University of Nebraska–Lincoln",
+    "university_abbrev": [
+      "NU",
+      "UNL"
+    ]
+  },
+  {
+    "id": 526,
+    "university_name": "University of Nevada, Las Vegas",
+    "university_abbrev": [
+      "UNLV"
+    ]
+  },
+  {
+    "id": 527,
+    "university_name": "University of Nevada, Reno",
+    "university_abbrev": [
+      "UNR"
+    ]
+  },
+  {
+    "id": 528,
+    "university_name": "University of New Hampshire",
+    "university_abbrev": [
+      "UNH"
+    ]
+  },
+  {
+    "id": 529,
+    "university_name": "University of New Haven",
+    "university_abbrev": [
+      "UNH"
+    ]
+  },
+  {
+    "id": 530,
+    "university_name": "University of New Mexico",
+    "university_abbrev": [
+      "UNM"
+    ]
+  },
+  {
+    "id": 531,
+    "university_name": "University of New Orleans",
+    "university_abbrev": [
+      "UNO"
+    ]
+  },
+  {
+    "id": 532,
+    "university_name": "University of North Alabama",
+    "university_abbrev": [
+      "UNA"
+    ]
+  },
+  {
+    "id": 533,
+    "university_name": "University of North Carolina at Chapel Hill",
+    "university_abbrev": [
+      "Carolina",
+      "Chapel Hill",
+      "UNC"
+    ]
+  },
+  {
+    "id": 536,
+    "university_name": "University of North Carolina at Charlotte",
+    "university_abbrev": [
+      "Charlotte",
+      "UNCC"
+    ]
+  },
+  {
+    "id": 538,
+    "university_name": "University of North Carolina at Greensboro",
+    "university_abbrev": [
+      "UNCG"
+    ]
+  },
+  {
+    "id": 539,
+    "university_name": "University of North Carolina at Wilmington",
+    "university_abbrev": [
+      "UNCW"
+    ]
+  },
+  {
+    "id": 540,
+    "university_name": "University of North Dakota",
+    "university_abbrev": [
+      "ND",
+      "NoDak",
+      "UND"
+    ]
+  },
+  {
+    "id": 543,
+    "university_name": "University of North Florida",
+    "university_abbrev": [
+      "UNF"
+    ]
+  },
+  {
+    "id": 544,
+    "university_name": "University of North Texas",
+    "university_abbrev": [
+      "UNT"
+    ]
+  },
+  {
+    "id": 545,
+    "university_name": "University of Northern Colorado",
+    "university_abbrev": [
+      "UNC"
+    ]
+  },
+  {
+    "id": 546,
+    "university_name": "University of Northern Iowa",
+    "university_abbrev": [
+      "UNI"
+    ]
+  },
+  {
+    "id": 547,
+    "university_name": "University of Notre Dame",
+    "university_abbrev": [
+      "ND"
+    ]
+  },
+  {
+    "id": 548,
+    "university_name": "University of Oklahoma",
+    "university_abbrev": [
+      "OU"
+    ]
+  },
+  {
+    "id": 549,
+    "university_name": "University of Oregon",
+    "university_abbrev": [
+      "UO"
+    ]
+  },
+  {
+    "id": 550,
+    "university_name": "University of Pennsylvania",
+    "university_abbrev": [
+      "Penn",
+      "UPenn"
+    ]
+  },
+  {
+    "id": 552,
+    "university_name": "University of Pikeville",
+    "university_abbrev": [
+      "UPIKE"
+    ]
+  },
+  {
+    "id": 553,
+    "university_name": "University of Pittsburgh",
+    "university_abbrev": [
+      "Pitt"
+    ]
+  },
+  {
+    "id": 554,
+    "university_name": "University of Portland",
+    "university_abbrev": [
+      "UP"
+    ]
+  },
+  {
+    "id": 555,
+    "university_name": "University of Rhode Island",
+    "university_abbrev": [
+      "URI"
+    ]
+  },
+  {
+    "id": 556,
+    "university_name": "University of Richmond",
+    "university_abbrev": [
+      "UR or U of R"
+    ]
+  },
+  {
+    "id": 557,
+    "university_name": "University of Rochester",
+    "university_abbrev": [
+      "UR or U of R"
+    ]
+  },
+  {
+    "id": 558,
+    "university_name": "University of San Diego",
+    "university_abbrev": [
+      "USD"
+    ]
+  },
+  {
+    "id": 559,
+    "university_name": "University of San Francisco",
+    "university_abbrev": [
+      "USF",
+      "USFCA"
+    ]
+  },
+  {
+    "id": 561,
+    "university_name": "University of Science and Arts of Oklahoma",
+    "university_abbrev": [
+      "USAO"
+    ]
+  },
+  {
+    "id": 562,
+    "university_name": "University of Scranton",
+    "university_abbrev": [
+      "U of S"
+    ]
+  },
+  {
+    "id": 563,
+    "university_name": "University of South Alabama",
+    "university_abbrev": [
+      "USA"
+    ]
+  },
+  {
+    "id": 564,
+    "university_name": "University of South Carolina",
+    "university_abbrev": [
+      "Carolina",
+      "SC",
+      "USC"
+    ]
+  },
+  {
+    "id": 567,
+    "university_name": "University of South Carolina Aiken",
+    "university_abbrev": [
+      "USCA"
+    ]
+  },
+  {
+    "id": 568,
+    "university_name": "University of South Dakota",
+    "university_abbrev": [
+      "USD"
+    ]
+  },
+  {
+    "id": 569,
+    "university_name": "University of South Florida",
+    "university_abbrev": [
+      "USF"
+    ]
+  },
+  {
+    "id": 570,
+    "university_name": "University of Southern California",
+    "university_abbrev": [
+      "SC",
+      "USC"
+    ]
+  },
+  {
+    "id": 572,
+    "university_name": "University of Southern Indiana",
+    "university_abbrev": [
+      "USI"
+    ]
+  },
+  {
+    "id": 573,
+    "university_name": "University of Southern Maine",
+    "university_abbrev": [
+      "USM"
+    ]
+  },
+  {
+    "id": 574,
+    "university_name": "University of Tampa",
+    "university_abbrev": [
+      "UT"
+    ]
+  },
+  {
+    "id": 575,
+    "university_name": "University of Tennessee",
+    "university_abbrev": [
+      "UT"
+    ]
+  },
+  {
+    "id": 576,
+    "university_name": "University of Tennessee at Chattanooga",
+    "university_abbrev": [
+      "Chatt or Chattanooga",
+      "UTC"
+    ]
+  },
+  {
+    "id": 578,
+    "university_name": "University of Tennessee at Martin",
+    "university_abbrev": [
+      "UTM"
+    ]
+  },
+  {
+    "id": 579,
+    "university_name": "University of Texas Health Science Center at Tyler",
+    "university_abbrev": [
+      "UTHSCT"
+    ]
+  },
+  {
+    "id": 580,
+    "university_name": "University of Texas Permian Basin",
+    "university_abbrev": [
+      "UTPB"
+    ]
+  },
+  {
+    "id": 581,
+    "university_name": "University of Texas Rio Grande Valley",
+    "university_abbrev": [
+      "UTRGV"
+    ]
+  },
+  {
+    "id": 582,
+    "university_name": "University of Texas at Arlington",
+    "university_abbrev": [
+      "UTA"
+    ]
+  },
+  {
+    "id": 583,
+    "university_name": "University of Texas at Austin",
+    "university_abbrev": [
+      "UT"
+    ]
+  },
+  {
+    "id": 584,
+    "university_name": "University of Texas at Brownsville",
+    "university_abbrev": [
+      "UTB"
+    ]
+  },
+  {
+    "id": 585,
+    "university_name": "University of Texas at Dallas",
+    "university_abbrev": [
+      "UTD"
+    ]
+  },
+  {
+    "id": 586,
+    "university_name": "University of Texas at El Paso",
+    "university_abbrev": [
+      "UTEP"
+    ]
+  },
+  {
+    "id": 587,
+    "university_name": "University of Texas at San Antonio",
+    "university_abbrev": [
+      "UTSA"
+    ]
+  },
+  {
+    "id": 588,
+    "university_name": "University of Texas-Austin",
+    "university_abbrev": [
+      "t.u."
+    ]
+  },
+  {
+    "id": 589,
+    "university_name": "University of Toledo",
+    "university_abbrev": [
+      "UT"
+    ]
+  },
+  {
+    "id": 590,
+    "university_name": "University of Tulsa",
+    "university_abbrev": [
+      "TU"
+    ]
+  },
+  {
+    "id": 591,
+    "university_name": "University of Utah",
+    "university_abbrev": [
+      "The U",
+      "U of U",
+      "U of U"
+    ]
+  },
+  {
+    "id": 594,
+    "university_name": "University of Vermont",
+    "university_abbrev": [
+      "UVM"
+    ]
+  },
+  {
+    "id": 595,
+    "university_name": "University of Virginia",
+    "university_abbrev": [
+      "UVA"
+    ]
+  },
+  {
+    "id": 596,
+    "university_name": "University of Washington",
+    "university_abbrev": [
+      "U Dub",
+      "UW"
+    ]
+  },
+  {
+    "id": 598,
+    "university_name": "University of West Alabama",
+    "university_abbrev": [
+      "UWA"
+    ]
+  },
+  {
+    "id": 599,
+    "university_name": "University of West Florida",
+    "university_abbrev": [
+      "UWF"
+    ]
+  },
+  {
+    "id": 600,
+    "university_name": "University of West Georgia",
+    "university_abbrev": [
+      "UWG"
+    ]
+  },
+  {
+    "id": 601,
+    "university_name": "University of Wisconsin System",
+    "university_abbrev": [
+      "UW"
+    ]
+  },
+  {
+    "id": 602,
+    "university_name": "University of Wisconsin–Green Bay",
+    "university_abbrev": [
+      "GB",
+      "UWGB"
+    ]
+  },
+  {
+    "id": 604,
+    "university_name": "University of Wisconsin–Madison",
+    "university_abbrev": [
+      "Madison",
+      "UW"
+    ]
+  },
+  {
+    "id": 606,
+    "university_name": "University of Wisconsin–Milwaukee",
+    "university_abbrev": [
+      "Milwaukee",
+      "UWM"
+    ]
+  },
+  {
+    "id": 608,
+    "university_name": "University of Wyoming",
+    "university_abbrev": [
+      "UW"
+    ]
+  },
+  {
+    "id": 609,
+    "university_name": "University of the Cumberlands",
+    "university_abbrev": [
+      "Cumberlands",
+      "UC"
+    ]
+  },
+  {
+    "id": 611,
+    "university_name": "University of the District of Columbia",
+    "university_abbrev": [
+      "UDC"
+    ]
+  },
+  {
+    "id": 612,
+    "university_name": "University of the Incarnate Word",
+    "university_abbrev": [
+      "UIW"
+    ]
+  },
+  {
+    "id": 613,
+    "university_name": "University of the Pacific (United States)",
+    "university_abbrev": [
+      "Pacific",
+      "UOP"
+    ]
+  },
+  {
+    "id": 615,
+    "university_name": "University of the People",
+    "university_abbrev": [
+      "UoPeople"
+    ]
+  },
+  {
+    "id": 616,
+    "university_name": "Utah State University",
+    "university_abbrev": [
+      "USU"
+    ]
+  },
+  {
+    "id": 617,
+    "university_name": "Utah Valley University",
+    "university_abbrev": [
+      "UVU"
+    ]
+  },
+  {
+    "id": 618,
+    "university_name": "Valdosta State University",
+    "university_abbrev": [
+      "VSU"
+    ]
+  },
+  {
+    "id": 619,
+    "university_name": "Valparaiso University",
+    "university_abbrev": [
+      "Valpo",
+      "VU"
+    ]
+  },
+  {
+    "id": 621,
+    "university_name": "Vanderbilt University",
+    "university_abbrev": [
+      "Vandy",
+      "VU"
+    ]
+  },
+  {
+    "id": 623,
+    "university_name": "Vanguard University",
+    "university_abbrev": [
+      "VU"
+    ]
+  },
+  {
+    "id": 624,
+    "university_name": "Vermont State University",
+    "university_abbrev": [
+      "VTSU"
+    ]
+  },
+  {
+    "id": 625,
+    "university_name": "Vermont Technical College",
+    "university_abbrev": [
+      "VTC"
+    ]
+  },
+  {
+    "id": 626,
+    "university_name": "Villanova University",
+    "university_abbrev": [
+      "Nova",
+      "VU"
+    ]
+  },
+  {
+    "id": 628,
+    "university_name": "Vincennes University",
+    "university_abbrev": [
+      "VU"
+    ]
+  },
+  {
+    "id": 629,
+    "university_name": "Virginia Commonwealth University",
+    "university_abbrev": [
+      "VCU"
+    ]
+  },
+  {
+    "id": 630,
+    "university_name": "Virginia Military Institute",
+    "university_abbrev": [
+      "VMI"
+    ]
+  },
+  {
+    "id": 631,
+    "university_name": "Virginia Polytechnic Institute and State University",
+    "university_abbrev": [
+      "Virginia Tech",
+      "VPI",
+      "VT"
+    ]
+  },
+  {
+    "id": 634,
+    "university_name": "Virginia State University",
+    "university_abbrev": [
+      "VSU"
+    ]
+  },
+  {
+    "id": 635,
+    "university_name": "Virginia Union University",
+    "university_abbrev": [
+      "VUU"
+    ]
+  },
+  {
+    "id": 636,
+    "university_name": "Wagner College",
+    "university_abbrev": [
+      "WC"
+    ]
+  },
+  {
+    "id": 637,
+    "university_name": "Wake Forest University",
+    "university_abbrev": [
+      "WFU"
+    ]
+  },
+  {
+    "id": 638,
+    "university_name": "Warren Wilson College",
+    "university_abbrev": [
+      "WWC"
+    ]
+  },
+  {
+    "id": 639,
+    "university_name": "Washburn University",
+    "university_abbrev": [
+      "WU"
+    ]
+  },
+  {
+    "id": 640,
+    "university_name": "Washington & Jefferson College",
+    "university_abbrev": [
+      "W&J"
+    ]
+  },
+  {
+    "id": 641,
+    "university_name": "Washington State University",
+    "university_abbrev": [
+      "Wazzu",
+      "WSU"
+    ]
+  },
+  {
+    "id": 643,
+    "university_name": "Washington University in St. Louis",
+    "university_abbrev": [
+      "WashU or Wash U",
+      "WU",
+      "WUSTL"
+    ]
+  },
+  {
+    "id": 646,
+    "university_name": "Washington and Lee University",
+    "university_abbrev": [
+      "W&L"
+    ]
+  },
+  {
+    "id": 647,
+    "university_name": "West Chester University",
+    "university_abbrev": [
+      "WCU"
+    ]
+  },
+  {
+    "id": 648,
+    "university_name": "West Texas A&M University",
+    "university_abbrev": [
+      "WTAMU"
+    ]
+  },
+  {
+    "id": 649,
+    "university_name": "West Virginia University",
+    "university_abbrev": [
+      "WVU"
+    ]
+  },
+  {
+    "id": 650,
+    "university_name": "West Virginia University at Parkersburg",
+    "university_abbrev": [
+      "WVUP"
+    ]
+  },
+  {
+    "id": 651,
+    "university_name": "Western Carolina University",
+    "university_abbrev": [
+      "WCU"
+    ]
+  },
+  {
+    "id": 652,
+    "university_name": "Western Colorado University",
+    "university_abbrev": [
+      "WCU"
+    ]
+  },
+  {
+    "id": 653,
+    "university_name": "Western Governors University",
+    "university_abbrev": [
+      "WGU"
+    ]
+  },
+  {
+    "id": 654,
+    "university_name": "Western Illinois University",
+    "university_abbrev": [
+      "WIU"
+    ]
+  },
+  {
+    "id": 655,
+    "university_name": "Western Kentucky University",
+    "university_abbrev": [
+      "WKU"
+    ]
+  },
+  {
+    "id": 656,
+    "university_name": "Western Michigan University",
+    "university_abbrev": [
+      "WMU"
+    ]
+  },
+  {
+    "id": 657,
+    "university_name": "Western Washington University",
+    "university_abbrev": [
+      "Western",
+      "WWU"
+    ]
+  },
+  {
+    "id": 659,
+    "university_name": "Wichita State University",
+    "university_abbrev": [
+      "WSU"
+    ]
+  },
+  {
+    "id": 660,
+    "university_name": "Williams College",
+    "university_abbrev": [
+      "Williams"
+    ]
+  },
+  {
+    "id": 661,
+    "university_name": "Wilmington College",
+    "university_abbrev": [
+      "WC"
+    ]
+  },
+  {
+    "id": 662,
+    "university_name": "Winston-Salem State University",
+    "university_abbrev": [
+      "WSSU"
+    ]
+  },
+  {
+    "id": 663,
+    "university_name": "Winthrop University",
+    "university_abbrev": [
+      "WU"
+    ]
+  },
+  {
+    "id": 664,
+    "university_name": "Worcester Polytechnic Institute",
+    "university_abbrev": [
+      "WPI"
+    ]
+  },
+  {
+    "id": 665,
+    "university_name": "Wright State University",
+    "university_abbrev": [
+      "WSU"
+    ]
+  },
+  {
+    "id": 666,
+    "university_name": "Xavier University (Cincinnati)",
+    "university_abbrev": [
+      "XU"
+    ]
+  },
+  {
+    "id": 667,
+    "university_name": "Xavier University of Louisiana",
+    "university_abbrev": [
+      "XULA"
+    ]
+  },
+  {
+    "id": 668,
+    "university_name": "Yeshiva University",
+    "university_abbrev": [
+      "YU"
+    ]
+  },
+  {
+    "id": 669,
+    "university_name": "Youngstown State University",
+    "university_abbrev": [
+      "YSU"
+    ]
+  }
+]

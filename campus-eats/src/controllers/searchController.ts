@@ -1,4 +1,4 @@
-import { createClient } from '@/utils/supabase/client'
+import { NextApiRequest, NextApiResponse } from 'next';
 export interface University {
     id: number;
     university_name: string;
@@ -9,31 +9,10 @@ export interface University {
  * Function to fetch all university names and abbreviations from the database.
  * @returns {Promise<University>} - An array of objects containing university information
  */
-export async function fetchUniversityInformation() {
-    const supabase = createClient();
-
-    const { data, error } = await supabase
-        .from('universities')
-        .select('id, university_name, university_abbrev');
-    if (error) {
-        throw error;
+export async function fetchUniversityInformation(): Promise<University[]> {
+    const response = await fetch('/universities.json'); // This is a static file served from the public directory
+    if (!response.ok) {
+        throw new Error('Error fetching universities.json file');
     }
-
-    const universityMap: Record<string, University> = {};
-
-    data.forEach((item: any) => {
-        const { id, university_name, university_abbrev } = item;
-        if(!universityMap[university_name]) {
-            universityMap[university_name] = {
-                id,
-                university_name,
-                university_abbrev: [university_abbrev],
-            };
-        }
-        else {
-            universityMap[university_name].university_abbrev.push(university_abbrev);
-        }
-    });
-    const newData = Object.values(universityMap);
-    return newData as University[];
+    return response.json();
 }
