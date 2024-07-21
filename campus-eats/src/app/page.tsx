@@ -62,22 +62,28 @@ const cardsData = [
 ]
 export default function Home() {
   return (
-    <div>
-      <Search />
-      <div className="flex flex-wrap justify-center">
-            {/*cardsData.map((card, index) => (
-                <ReviewCard
-                    eateryName={card.eateryName}
-                    description={card.description}
-                    schoolImageURL={card.schoolImageURL}
-                    schoolLocation={card.schoolLocation}
-                    rating={card.rating}
-                    numReviews={card.numReviews}
-                    schoolName={card.schoolName}
-                    key={index}
-                />
-            ))*/}
+    <div className="relative">
+      <div className="relative h-96 bg-no-repeat bg-center bg-cover bg-landing-page-image">
+        <div className="absolute inset-0 bg-black opacity-30"></div>
+        <div className="relative z-10 flex items-center justify-center h-full">
+          <Search />
         </div>
+      </div>
+      <div className="flex flex-wrap justify-center">
+        {/*cardsData.map((card, index) => (
+            <ReviewCard
+                eateryName={card.eateryName}
+                description={card.description}
+                schoolImageURL={card.schoolImageURL}
+                schoolLocation={card.schoolLocation}
+                rating={card.rating}
+                numReviews={card.numReviews}
+                schoolName={card.schoolName}
+                key={index}
+            />
+        ))*/}
+      </div>
     </div>
   );
 }
+

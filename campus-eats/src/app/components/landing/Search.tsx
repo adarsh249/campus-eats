@@ -1,6 +1,8 @@
 'use client'
 import { useState, useEffect, useRef } from 'react';
 import { fetchUniversityInformation, University } from '../../../controllers/searchController';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import '../../globals.css';
 /**
  * The input box to search for a university or dining option.
@@ -85,24 +87,43 @@ export default function Search() {
     }, [inputValue])
 
     return (
-        <section role="search">
-            <p>The #1 place to find the places to eat on campus!</p>
-            <form action="/search" method="get">
-                <label htmlFor="search">
-                    <input type="search" id="search" name="query" placeholder={placeholder} value={inputValue} onChange={handleInputChange} onFocus={handleInputFocus} onBlur={handleInputBlur}/>
-                </label>
-                <button type="submit">Search</button>
-            </form>
-            <a href="/" onClick={handleLinkClick}>{searchLinkText}</a>
-            {showDropdown && (
-                <ul>
-                    {filteredUniversities.map((uni) => (
-                        <li key={`${uni.id}`}>
-                            <a href={`/schools/${uni.university_name.replace(/\s/g, '-').toLowerCase().replace(/[(),/]/g, '')}`}>{uni.university_name}</a>
-                        </li>
-                    ))}
-                </ul>
-            )}
+        <section role="search" className="flex flex-col justify-center items-center text-center space-y-4 p-4 relative">
+          <p className="text-lg font-semibold text-black-700">
+            The #1 place to find the places to eat on campus!
+          </p>
+          <form action="/search" method="get" className="flex items-center w-full max-w-md relative">
+            <input
+              className="flex-1 p-3 pl-4 pr-10 rounded-full h-12 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              type="search"
+              id="search"
+              name="query"
+              placeholder="Search..."
+              value={inputValue}
+              onChange={handleInputChange}
+              onFocus={handleInputFocus}
+              onBlur={handleInputBlur}
+            />
+            <button type="submit" className="absolute right-3 top-1/2 transform -translate-y-1/2">
+              <FontAwesomeIcon icon={faSearch} className="text-gray-500" />
+            </button>
+          </form>
+          <a href="/" onClick={handleLinkClick} className="text-blue-500 hover:underline">
+            {searchLinkText}
+          </a>
+          {showDropdown && (
+            <ul className="absolute top-full mt-2 w-full max-w-md bg-white border border-gray-300 rounded-md shadow-lg overflow-y-auto max-h-60">
+              {filteredUniversities.map((uni) => (
+                <li key={uni.id} className="p-2 hover:bg-gray-100">
+                  <a
+                    href={`/schools/${uni.university_name.replace(/\s/g, '-').toLowerCase().replace(/[(),/]/g, '')}`}
+                    className="block text-gray-700 hover:text-gray-900"
+                  >
+                    {uni.university_name}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
         </section>
     );
 }
