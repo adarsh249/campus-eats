@@ -16,6 +16,7 @@ export default function Search() {
     const [filteredUniversities, setFilteredUniversities] = useState<University[]>([]);
     const [showDropdown, setShowDropdown] = useState<boolean>(false);
     const universitiesRef = useRef<University[]>([]);
+    const formRef = useRef<HTMLDivElement>(null);
     /**
      * Switch the text depending on what the user wants to search.
      * @param event Clicking on the link to switch between searching for a school and dining options.
@@ -53,8 +54,10 @@ export default function Search() {
     /**
      * Handle the input blur
      */
-    const handleInputBlur = () => {
-        setTimeout(() => setShowDropdown(false), 200); // Delay hiding the dropdown to allow the user to click on it
+    const handleInputBlur = (e: React.FocusEvent<HTMLInputElement>) => {
+        if (!formRef.current || !formRef.current.contains(e.relatedTarget as Node)) {
+            setShowDropdown(false);
+        }
     }
 
     /**
@@ -88,12 +91,13 @@ export default function Search() {
 
     return (
         <section role="search" className="flex flex-col justify-center items-center text-center p-4 relative">
-          <p className="text-lg font-semibold text-white">
+          <p className="text-lg font-semibold text-white mb-4">
             The #1 place to find the places to eat on campus!
           </p>
-          <form action="/search" method="get" className="flex items-center py-2.5 px-5">
+          <div className="w-full relative" ref={formRef}>
+          <form action="/search" method="get" className={`flex items-center py-2.5 px-5 bg-white border-2 border-black rounded-xl w-full relative ${showDropdown ? 'rounded-b-none border-b-0' : ''}`}>
             <input
-              className="flex flex-1 h-16 outline-none border-none"
+              className="flex flex-1 h-8 outline-none border-none w-full"
               type="search"
               id="search"
               name="query"
@@ -113,21 +117,23 @@ export default function Search() {
             {searchLinkText}
           </a>*/}
           {showDropdown && (
-                <div className="overflow-y-scroll max-h-72 absolute">
-                    <ul className="border-y-2 py-4 px-2.5">
-                        {filteredUniversities.map((uni) => (
-                            <li key={uni.id} className="p-2 hover:bg-gray-100">
-                                <a
-                                    href={`/schools/${uni.university_name.replace(/\s/g, '-').toLowerCase().replace(/[(),/]/g, '')}`}
-                                    className="block text-gray-700 hover:text-gray-900"
-                                >
-                                    {uni.university_name}
-                                </a>
-                            </li>
-                        ))}
-                    </ul>
-                </div>
+            <div className="absolute left-0 top-full w-full z-10">
+                <ul className="w-full overflow-y-auto max-h-60 absolute bg-white border-2 border-black border-t-0 rounded-b-xl scrollbar-thin scrollbar-webkit">
+                    {filteredUniversities.map((uni) => (
+                        <li key={uni.id} className="p-2 hover:bg-gray-100">
+                            <a
+                                href={`/schools/${uni.university_name.replace(/\s/g, '-').toLowerCase().replace(/[(),/]/g, '')}`}
+                                className="block text-gray-700 hover:text-gray-900"
+                            >
+                                {uni.university_name}
+                            </a>
+                        </li>
+                    ))}
+                </ul>
+            </div>
             )}
+          </div>
+          
         </section>
     );
 }
