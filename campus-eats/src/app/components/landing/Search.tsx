@@ -87,24 +87,25 @@ export default function Search() {
     }, [inputValue])
 
     return (
-        <section role="search" className="flex flex-col justify-center items-center text-center space-y-4 p-4 relative">
+        <section role="search" className="flex flex-col justify-center items-center text-center p-4 relative">
           <p className="text-lg font-semibold text-white">
             The #1 place to find the places to eat on campus!
           </p>
-          <form action="/search" method="get" className="flex items-center w-full max-w-md relative">
+          <form action="/search" method="get" className="flex items-center py-2.5 px-5">
             <input
-              className=""
+              className="flex flex-1 h-16 outline-none border-none"
               type="search"
               id="search"
               name="query"
+              autoComplete="off"
               placeholder={placeholder}
               value={inputValue}
               onChange={handleInputChange}
               onFocus={handleInputFocus}
               onBlur={handleInputBlur}
             />
-            <button type="submit" className="">
-              <FontAwesomeIcon icon={faSearch} className="text-gray-500" />
+            <button type="submit" className="bg-transparent border-none outline-none">
+              <FontAwesomeIcon icon={faSearch} className="w-6 text-gray-500 cursor-pointer " />
             </button>
           </form>
           {/*
@@ -112,18 +113,20 @@ export default function Search() {
             {searchLinkText}
           </a>*/}
           {showDropdown && (
-                <ul className="">
-                    {filteredUniversities.map((uni) => (
-                        <li key={uni.id} className="p-2 hover:bg-gray-100">
-                            <a
-                                href={`/schools/${uni.university_name.replace(/\s/g, '-').toLowerCase().replace(/[(),/]/g, '')}`}
-                                className="block text-gray-700 hover:text-gray-900"
-                            >
-                                {uni.university_name}
-                            </a>
-                        </li>
-                    ))}
-                </ul>
+                <div className="overflow-y-scroll max-h-72 absolute">
+                    <ul className="border-y-2 py-4 px-2.5">
+                        {filteredUniversities.map((uni) => (
+                            <li key={uni.id} className="p-2 hover:bg-gray-100">
+                                <a
+                                    href={`/schools/${uni.university_name.replace(/\s/g, '-').toLowerCase().replace(/[(),/]/g, '')}`}
+                                    className="block text-gray-700 hover:text-gray-900"
+                                >
+                                    {uni.university_name}
+                                </a>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
             )}
         </section>
     );
