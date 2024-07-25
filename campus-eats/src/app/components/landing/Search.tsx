@@ -97,8 +97,8 @@ export default function Search() {
           <div className="w-full relative" ref={formRef}>
           <form action="/search" method="get" className={`flex items-center py-2.5 px-5 bg-white border-2 border-black rounded-xl w-full relative ${showDropdown ? 'rounded-b-none border-b-0' : ''}`}>
             <input
-              className="flex flex-1 h-8 outline-none border-none w-full"
-              type="search"
+              className="flex flex-1 h-8 outline-none border-none w-full z-50"
+              type="text"
               id="search"
               name="query"
               autoComplete="off"
@@ -129,6 +129,14 @@ export default function Search() {
                             </a>
                         </li>
                     ))}
+                    <li className="p-2 hover:bg-gray-100">
+                        <a
+                            href={`/add-school`}
+                            className="block text-gray-700 hover:text-gray-900"
+                        >
+                            Can't find your school? Add it here!
+                        </a>
+                    </li>
                 </ul>
             </div>
             )}
